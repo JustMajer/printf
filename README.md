@@ -101,4 +101,4 @@
 ### Authors
 [Oladepo Bashir Majer](https://github.com/JustMajer) | [@JustMajer](https://github.com/JustMajer)
 
-[Emmanuel Olamide Ogundare](https://github.com/emmanueloogundare) | [@Emy_Code(https://github.com/emmanueloogundare)
+[Emmanuel Olamide Ogundare](https://github.com/emmanueloogundare) | [@Emy_Code](https://github.com/emmanueloogundare)
